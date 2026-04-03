@@ -7,7 +7,7 @@ Este proyecto es el resultado de la Evaluación Sumativa de Front-end, integrand
 
 # 🚀 Vista previa del Proyecto
 
-> 🔗 Enlace en vivo:  https://loretobustos.github.io/sumativa_front-end/ 
+> 🔗 Enlace en vivo:  https://loretobustos.github.io/sumativa_1-front-end/ 
 
 Vista previa del proyecto assets/img/preview.png 
 
